@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <person id="1">
+        <name>Din</name>
+        <age>27</age>
+        <country>US</country>
+        <state>NY</state>
+    </person>
+    <person id="2">
+        <name>Sam</name>
+        <age>20</age>
+        <country>US</country>
+        <state>CA</state>
+    </person>
+</document>

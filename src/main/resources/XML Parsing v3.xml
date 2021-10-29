@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report number="12345">
+    <employers department="II">
+        <employee number="1">
+            <name>John Doe</name>
+            <age>25</age>
+            <salary currency="USD">5000</salary>
+        </employee>
+
+        <employee number="2">
+            <name>Mike Frost</name>
+            <age>35</age>
+            <salary currency="CAD">8000</salary>
+        </employee>
+
+        <employee number="3">
+            <name>Jim Brown</name>
+            <age>32</age>
+            <salary currency="F">15000</salary>
+        </employee>
+    </employers>
+</report>
